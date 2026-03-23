@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>READ WITH VIVEK Coaching</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial;
+        }
+        header {
+            background: #007bff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background: #333;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: yellow;
+        }
+        .hero {
+            padding: 50px;
+            text-align: center;
+            background: #f4f4f4;
+        }
+        .section {
+            padding: 40px;
+            text-align: center;
+        }
+        .courses {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .card {
+            border: 1px solid #ccc;
+            padding: 20px;
+            width: 200px;
+            border-radius: 10px;
+        }
+        footer {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>READ WITH VIVEK</h1>
+    <p>Best Coaching Classes for Bright Future</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Courses</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+</nav>
+
+<div class="hero">
+    <h2>Welcome to READ WITH VIVEK</h2>
+    <p>Join us to achieve your dreams</p>
+</div>
+
+<div class="section">
+    <h2>Our Courses</h2>
+    <div class="courses">
+        <div class="card">
+            <h3>Class 10</h3>
+            <p>All Subjects</p>
+        </div>
+        <div class="card">
+            <h3>Class 12</h3>
+            <p>Science & Commerce</p>
+        </div>
+        <div class="card">
+            <h3>Competitive Exams</h3>
+            <p>SSC, Railway, etc.</p>
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <h2>About Us</h2>
+    <p>READ WITH VIVEK is a coaching institute focused on quality education and student success.</p>
+</div>
+
+<div class="section">
+    <h2>Contact Us</h2>
+    <p>📞 Phone: 7281890515</p>
+    <p>📍 Address: maharani sthan chhapra</p>
+</div>
+
+<footer>
+    <p>© 2026 READ WITH VIVEK Coaching</p>
+</footer>
+
+</body>
+</html>
